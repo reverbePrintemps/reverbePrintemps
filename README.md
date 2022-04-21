@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @reverbePrintemps
-- 👀 I’m interested in audio topics, I love music (making and listening), traveling and I'm currently obsessed with Estonia
-- 💪 I've been mostly involved with the music and fintech industries
+- 👀 I’m interested in audio topics, passionate about music (making and listening), traveling and I'm currently obsessed with Estonia
+- 💪 I've been mostly involved with the music industry and the checkout/commerce domain
 - 📚 My favorite stack is React + Typescript
-- 🌱 I’m currently learning about Web 3 topics (crypto, the blockchain, smart contracts, NFTs..)
+- 🌱 Currently learning about Web 3 topics (crypto, the blockchain, smart contracts, NFTs..) and Next.js
+- 📱 My next goal is to develop a band name app using Next.js and Firebase
